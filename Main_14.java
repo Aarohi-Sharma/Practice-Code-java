@@ -16,6 +16,7 @@ public class Main_14 {
         System.out.println(name.replace("Shi", "SHI"));
         System.out.println(name.startsWith("ShI"));
         System.out.println(name.endsWith("gi"));
-        
+        System.out.println(name.charAt(3));
+        System.out.println(name.indexOf('a'));
     }
 }
