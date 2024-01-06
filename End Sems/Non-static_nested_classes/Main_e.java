@@ -8,7 +8,6 @@ class CPU {
         }
     }
     protected class RAM{
-        // members of protected nested class
         double memory;
         String manufacturer;
         double getClockSpeed(){
